@@ -7,6 +7,9 @@ I'm a Lead IT Instructor with a passion for networking, cybersecurity, cloud tec
 - CompTIA Server+
 - CompTIA Project+
 - CompTIA Cloud Essentials
+- CompTIA IT Operations Specialist
+- CompTIA Network Instrastructure Specialist
+- CompTIA Secure Infrastructure Specialist
 - Microsoft AI-900
 - Microsoft AZ-900
 - Linux Essentials
