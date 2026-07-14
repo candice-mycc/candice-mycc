@@ -23,6 +23,7 @@ I'm a Lead IT Instructor with a passion for networking, cybersecurity, cloud tec
 - MTA: Networking Fundamentals
 - MTA: Operating System Fundamentals
 - Microsoft Certified: Security, Compliance, and Identity Fundamentals
+- Microsoft Certified: AI Business Professional
 
 ## Current Interests
 - Cybersecurity
